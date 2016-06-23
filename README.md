@@ -9,9 +9,9 @@ In our first case study, predicting house prices, I created models that predicts
 In this course, I explored regularized linear regression models for the task of prediction and feature selection.  We handled very large sets of features and select between models of various complexity.  We also analyzed the impact of aspects of data -- such as outliers -- on your selected models and predictions.  To fit these models, I implemented optimization algorithms that scale to large datasets.
 
 Work done
--Compare and contrast bias and variance when modeling data.
--Estimate model parameters using optimization algorithms.
--Tune parameters with cross validation.
+*Compare and contrast bias and variance when modeling data.
+*Estimate model parameters using optimization algorithms.
+Tune parameters with cross validation.
 -Analyze the performance of the model.
 -Describe the notion of sparsity and how LASSO leads to sparse solutions.
 -Deploy methods to select between models.
@@ -28,10 +28,10 @@ Work done
 -Implement a logistic regression model for large-scale classification.  
 -Create a non-linear model using decision trees.
 -Improve the performance of any model using boosting.
--Scale your methods with stochastic gradient ascent.
+-Scale  methods with stochastic gradient ascent.
 -Describe the underlying decision boundaries.  
 -Build a classification model to predict sentiment in a product review dataset.  
 -Analyze financial data to predict loan defaults.
 -Use techniques for handling missing data.
--Evaluate your models using precision-recall metrics.
+-Evaluate models using precision-recall metrics.
 -Implemented these techniques in Python 
