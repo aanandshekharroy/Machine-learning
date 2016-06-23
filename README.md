@@ -24,6 +24,7 @@ In this course, we explored regularized linear regression models for the task of
 
 
 ###Classification:
+Case Studies: Analyzing Sentiment & Loan Default Prediction
 ######Certificate: https://www.coursera.org/account/accomplishments/records/CYV6DNDRPZUG
 In this case study on analyzing sentiment,I created models that predicted a class (positive/negative sentiment) from input features (text of the reviews, user profile information,...).  In our second case study for this course, loan default prediction, we tackled financial data, and predicted when a loan is likely to be risky or safe for the bank. These tasks are an examples of classification, one of the most widely used areas of machine learning, with a broad array of applications, including ad targeting, spam detection, medical diagnosis and image classification. 
 
