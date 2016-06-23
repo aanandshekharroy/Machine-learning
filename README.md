@@ -1,14 +1,17 @@
 # Machine-Learning-Specification-University-of-Washington-
 Coursera Assignment and Project of Machine learning specialization on coursera from University of washington.
 
-##Regression:
-Case Study - Predicting Housing Prices
+###Machine learning: A case study approach:
+######Certificate: https://www.coursera.org/account/accomplishments/records/EKVNF5DESGQQ
 
+###Regression:
+Case Study - Predicting Housing Prices
+######Certificate: https://www.coursera.org/account/accomplishments/records/XWHBSSUQQBS4
 In our first case study, predicting house prices, I created models that predicts a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...).  This is just one of the many places where regression can be applied.  Other applications range from predicting health outcomes in medicine, stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.
 
 In this course, we explored regularized linear regression models for the task of prediction and feature selection.  We handled very large sets of features and select between models of various complexity.  We also analyzed the impact of aspects of data -- such as outliers -- on your selected models and predictions.  To fit these models, I implemented optimization algorithms that scale to large datasets.
 
-###Work done
+####Work done
 * Compare and contrast bias and variance when modeling data.
 * Estimate model parameters using optimization algorithms.
 * Tune parameters with cross validation.
@@ -20,10 +23,11 @@ In this course, we explored regularized linear regression models for the task of
 * Implement these techniques in Python.
 
 
-##Classification:
+###Classification:
+######Certificate: https://www.coursera.org/account/accomplishments/records/CYV6DNDRPZUG
 In this case study on analyzing sentiment,I created models that predicted a class (positive/negative sentiment) from input features (text of the reviews, user profile information,...).  In our second case study for this course, loan default prediction, we tackled financial data, and predicted when a loan is likely to be risky or safe for the bank. These tasks are an examples of classification, one of the most widely used areas of machine learning, with a broad array of applications, including ad targeting, spam detection, medical diagnosis and image classification. 
 
-###Work done
+####Work done
 * Tackle both binary and multiclass classification problems.
 * Implement a logistic regression model for large-scale classification.  
 * Create a non-linear model using decision trees.
