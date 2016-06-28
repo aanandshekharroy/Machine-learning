@@ -26,6 +26,7 @@ In this course, we explored regularized linear regression models for the task of
 
 ###Classification:
 Case Studies: Analyzing Sentiment & Loan Default Prediction
+
 Data set: Amazon review database consisting 183531 entries 
           Lending club data sub-set consisting of 122607 entries
 ######Certificate: https://www.coursera.org/account/accomplishments/records/CYV6DNDRPZUG
