@@ -6,6 +6,7 @@ Coursera Assignment and Project of Machine learning specialization on coursera f
 
 ###Regression:
 Case Study - Predicting Housing Prices
+
 ######Certificate: https://www.coursera.org/account/accomplishments/records/XWHBSSUQQBS4
 In our first case study, predicting house prices, I created models that predicts a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...).  This is just one of the many places where regression can be applied.  Other applications range from predicting health outcomes in medicine, stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.
 
@@ -25,6 +26,8 @@ In this course, we explored regularized linear regression models for the task of
 
 ###Classification:
 Case Studies: Analyzing Sentiment & Loan Default Prediction
+Data set: Amazon review database consisting 183531 entries 
+          Lending club data sub-set consisting of 122607 entries
 ######Certificate: https://www.coursera.org/account/accomplishments/records/CYV6DNDRPZUG
 In this case study on analyzing sentiment,I created models that predicted a class (positive/negative sentiment) from input features (text of the reviews, user profile information,...).  In our second case study for this course, loan default prediction, we tackled financial data, and predicted when a loan is likely to be risky or safe for the bank. These tasks are an examples of classification, one of the most widely used areas of machine learning, with a broad array of applications, including ad targeting, spam detection, medical diagnosis and image classification. 
 
