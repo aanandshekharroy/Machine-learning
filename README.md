@@ -7,6 +7,7 @@ Coursera Assignment and Project of Machine learning specialization on coursera f
 ###Regression:
 Case Study - Predicting Housing Prices
 
+Data set: King County's house sales data-set
 ######Certificate: https://www.coursera.org/account/accomplishments/records/XWHBSSUQQBS4
 In our first case study, predicting house prices, I created models that predicts a continuous value (price) from input features (square footage, number of bedrooms and bathrooms,...).  This is just one of the many places where regression can be applied.  Other applications range from predicting health outcomes in medicine, stock prices in finance, and power usage in high-performance computing, to analyzing which regulators are important for gene expression.
 
