@@ -1,6 +1,12 @@
 # Machine-Learning-Specification-University-of-Washington-
 Coursera Assignment and Project of Machine learning specialization on coursera from University of washington.
 
+
+###Requirements:
+1. Python 3
+2. Graphlab 
+3. Ipython notebook
+
 ###Machine learning: A case study approach:
 ######Certificate: https://www.coursera.org/account/accomplishments/records/EKVNF5DESGQQ
 
